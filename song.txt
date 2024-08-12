@@ -1,7 +1,0 @@
-Hello my name is Juanes
-<<<<<<< HEAD
-I like to eat pasta
-
-
-=======
->>>>>>> 76261c2417c97664861c4165c2d49ab2386d58a9
